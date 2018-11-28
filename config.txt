@@ -1,6 +1,6 @@
-﻿token=NTE3MDE2Nzk4ODM1NjM4Mjky.Dt8GuQ.umAl4ui7lVbA1SEbvidsVHtgYLY
-owner=509719956473249802
-prefix= G
-game= Gplay
+token=NTE1OTg1MTYxMDcwODM3Nzc2.Dt-Peg.dyBwL5fKzSjngIC6tj02uYBH6ng
+owner=372063259051950091
+prefix= A
+game= Aplay
 stayinchannel=true
 songinstatus=true 
